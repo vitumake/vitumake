@@ -1,5 +1,5 @@
 Software developer based in Helsinki, Finland.  
-Fourth-year ICT Engineering student at Metropolia University of Applied Sciences specializing in Software Engineering and Neural Networks.
+Finishing ICT Engineering studies at Metropolia University of Applied Sciences specializing in Software Engineering and Neural Networks.
 
 I enjoy building reliable backend systems, APIs, automation pipelines, and full-stack applications.
 
